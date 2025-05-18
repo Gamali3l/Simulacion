@@ -12,7 +12,7 @@
 #include"EBO.h"
 #include"Camara.h"
 
-//primero comentario gama
+//primero comentario gamaaaaaaaaaa
 
 const unsigned int width = 800;
 const unsigned int height = 800;
