@@ -14,6 +14,7 @@
 
 //primero comentario gamaaaaaaaaaa
 //Culiquitacati
+//Culiquitacata
 const unsigned int width = 800;
 const unsigned int height = 800;
 
