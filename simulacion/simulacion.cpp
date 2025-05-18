@@ -14,6 +14,7 @@
 
 //primero comentario gamaaaaaaaaaa
 //Culiquitacati
+//fuas fuas
 //Culiquitacata
 //fuas fuas
 const unsigned int width = 800;
