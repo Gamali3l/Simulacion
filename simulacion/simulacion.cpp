@@ -5,7 +5,6 @@
 #include<glm.hpp>
 #include<gtc/matrix_transform.hpp>
 #include<gtc/type_ptr.hpp>
-
 #include"Texture.h"
 #include"shaderClass.h"
 #include"VAO.h"
@@ -13,7 +12,7 @@
 #include"EBO.h"
 #include"Camara.h"
 
-
+//primero comentario gama
 
 const unsigned int width = 800;
 const unsigned int height = 800;
