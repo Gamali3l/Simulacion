@@ -79,8 +79,8 @@
     <LibraryPath>C:\Users\MI PC\Desktop\1 SEMESTRE 2025\PROGRAMACION GRAFICA\simulacion\Depend\GLFW\lib-vc2022;C:\Users\MI PC\Desktop\1 SEMESTRE 2025\PROGRAMACION GRAFICA\simulacion\Depend\GL\lib\Release\Win32;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>C:\Users\MI PC\Desktop\1 SEMESTRE 2025\PROGRAMACION GRAFICA\simulacion\Depend\GLFW\include;C:\Users\MI PC\Desktop\1 SEMESTRE 2025\PROGRAMACION GRAFICA\simulacion\Depend\glm;C:\Users\MI PC\Desktop\1 SEMESTRE 2025\PROGRAMACION GRAFICA\simulacion\Depend\GL;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\MI PC\Desktop\1 SEMESTRE 2025\PROGRAMACION GRAFICA\simulacion\Depend\GLFW\lib-vc2022;C:\Users\MI PC\Desktop\1 SEMESTRE 2025\PROGRAMACION GRAFICA\simulacion\Depend\GL\lib\Release\Win32;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Users\DELL\OneDrive\Desktop\1 SEMESTRE 2025\PROGRAMACION GRAFICA\simulacion\Depend\GLFW\include;C:\Users\DELL\OneDrive\Desktop\1 SEMESTRE 2025\PROGRAMACION GRAFICA\simulacion\Depend\glm;C:\Users\DELL\OneDrive\Desktop\1 SEMESTRE 2025\PROGRAMACION GRAFICA\simulacion\Depend\GL;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\DELL\OneDrive\Desktop\1 SEMESTRE 2025\PROGRAMACION GRAFICA\simulacion\Depend\GLFW\lib-vc2022;C:\Users\DELL\OneDrive\Desktop\1 SEMESTRE 2025\PROGRAMACION GRAFICA\simulacion\Depend\GL\lib\Release\Win32;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <IncludePath>C:\Users\MI PC\Desktop\1 SEMESTRE 2025\PROGRAMACION GRAFICA\simulacion\Depend\GLFW\include;C:\Users\MI PC\Desktop\1 SEMESTRE 2025\PROGRAMACION GRAFICA\simulacion\Depend\glm;C:\Users\MI PC\Desktop\1 SEMESTRE 2025\PROGRAMACION GRAFICA\simulacion\Depend\GL;$(IncludePath)</IncludePath>
@@ -126,12 +126,12 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\MI PC\Desktop\1 SEMESTRE 2025\PROGRAMACION GRAFICA\simulacion\Depend\GLFW\include;C:\Users\MI PC\Desktop\1 SEMESTRE 2025\PROGRAMACION GRAFICA\simulacion\Depend\glad\include;C:\Users\MI PC\Desktop\1 SEMESTRE 2025\PROGRAMACION GRAFICA\simulacion\include;C:\Users\MI PC\Desktop\1 SEMESTRE 2025\PROGRAMACION GRAFICA\simulacion\Depend\glm;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\DELL\OneDrive\Desktop\1 SEMESTRE 2025\PROGRAMACION GRAFICA\simulacion\Depend\GLFW\include;C:\Users\DELL\OneDrive\Desktop\1 SEMESTRE 2025\PROGRAMACION GRAFICA\simulacion\Depend\glad\include;C:\Users\DELL\OneDrive\Desktop\1 SEMESTRE 2025\PROGRAMACION GRAFICA\simulacion\include;C:\Users\DELL\OneDrive\Desktop\1 SEMESTRE 2025\PROGRAMACION GRAFICA\simulacion\Depend\glm;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>C:\Users\MI PC\Desktop\1 SEMESTRE 2025\PROGRAMACION GRAFICA\simulacion\Depend\GLFW\lib-vc2022;C:\Users\MI PC\Desktop\1 SEMESTRE 2025\PROGRAMACION GRAFICA\simulacion\Depend\GL\lib\Release\Win32;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Users\DELL\OneDrive\Desktop\1 SEMESTRE 2025\PROGRAMACION GRAFICA\simulacion\Depend\GLFW\lib-vc2022;C:\Users\DELL\OneDrive\Desktop\1 SEMESTRE 2025\PROGRAMACION GRAFICA\simulacion\Depend\GL\lib\Release\Win32;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>glfw3.lib;opengl32.lib.;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
